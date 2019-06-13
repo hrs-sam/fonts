@@ -1,0 +1,9 @@
+<style type="text/css">
+ @font-face {
+	font-family: 'Apercu';
+	src: url(./ApercuPro-Mono.eot'); /* IE9 Compat Modes */
+	src: url('./ApercuPro-Mono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('./ApercuPro-Mono.woff') format('woff'), /* Modern Browsers */
+	url('./ApercuPro-Mono.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+</style>
